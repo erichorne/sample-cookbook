@@ -3,4 +3,4 @@
 # sample3
 
 Re-creation of clowns/bears/catacorns from Chef Fundamentals
-- Testing syntax using knife!!
+- Testing syntax using knife!?
