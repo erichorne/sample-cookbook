@@ -12,6 +12,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+##New version
 
 package 'httpd' do
   action :install
